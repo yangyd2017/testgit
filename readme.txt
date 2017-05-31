@@ -5,12 +5,12 @@
 \paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
 \pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
 
-\f0\fs24 \cf0 11111111\
-2222222\
+\f0\fs24 \cf0 2222222\
 3333333\
 4444444\
+5555555\
 6666666\
 7777777\
 \pard\tx566\tx1133\tx1214\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
-\cf0 9999999\
+\cf0 9765796\
 1414141}
